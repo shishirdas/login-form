@@ -1,0 +1,27 @@
+
+body{
+margin:40px;
+}
+.Header{
+background-color:#404040;
+color:white;
+border-radius:20px;
+box-shadow:5px 5px grey;
+}
+.form{
+background-color:#404040;
+height:365px;
+border-radius:20px;
+color:white;
+box-shadow:6px 5px grey;
+border:1px solid black;
+}
+input{
+border-radius:5px;
+}
+img{
+margin-top:20px;
+border-radius:50%;
+width:100px;
+height:100px;
+}
